@@ -1,1 +1,2 @@
+Login validation added in feature branch.
 This is the login feature for the branch merge challenge.
